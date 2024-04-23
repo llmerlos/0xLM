@@ -1,0 +1,37 @@
+Refs,Datasheet,Description,Footprint,JLCPCB Part #,JLCPCB Position Offset,JLCPCB Rotation Offset,Value
+C201,~,Unpolarized capacitor,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,,,3.3uF
+C202,~,Unpolarized capacitor,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,,,100nF
+D201,~,Schottky diode,Diode_SMD:D_SOD-323,,,,PMEG2010EA
+F201,~,"Resettable fuse, polymeric positive temperature coefficient",Fuse:Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder,,,,500mA
+J301,https://www.usb.org/sites/default/files/documents/usb_type-c.zip,USB 2.0-only 16P Type-C Receptacle connector,picctrl:TYPE-C-31-M-14,,,,TYPE-610-1.6-T3
+J302,https://www.usb.org/sites/default/files/documents/usb_type-c.zip,USB 2.0-only 16P Type-C Receptacle connector,picctrl:TYPE-C-31-M-14,,,,TYPE-610-1.6-T3
+K202,~,"Push button switch, generic, two pins",picctrl:SW_Hotswap_Kailh_Choc_V1_1.00u,,,,CPG135001S30
+K203,~,"Push button switch, generic, two pins",picctrl:SW_Hotswap_Kailh_Choc_V1_1.00u,,,,CPG135001S30
+K204,~,"Push button switch, generic, two pins",picctrl:SW_Hotswap_Kailh_Choc_V1_1.00u,,,,CPG135001S30
+K205,~,"Push button switch, generic, two pins",picctrl:SW_Hotswap_Kailh_Choc_V1_1.00u,,,,CPG135001S30
+K206,~,"Push button switch, generic, two pins",picctrl:SW_Hotswap_Kailh_Choc_V1_1.00u,,,,CPG135001S30
+K207,~,"Push button switch, generic, two pins",picctrl:SW_Hotswap_Kailh_Choc_V1_1.00u,,,,CPG135001S30
+K208,~,"Push button switch, generic, two pins",picctrl:SW_Hotswap_Kailh_Choc_V1_1.00u,,,,CPG135001S30
+K209,~,"Push button switch, generic, two pins",picctrl:SW_Hotswap_Kailh_Choc_V1_1.00u,,,,CPG135001S30
+K210,~,"Push button switch, generic, two pins",picctrl:SW_Hotswap_Kailh_Choc_V1_1.00u,,,,CPG135001S30
+K211,~,"Push button switch, generic, two pins",picctrl:SW_Hotswap_Kailh_Choc_V1_1.00u,,,,CPG135001S30
+K212,~,"Push button switch, generic, two pins",picctrl:SW_Hotswap_Kailh_Choc_V1_1.00u,,,,CPG135001S30
+K213,~,"Push button switch, generic, two pins",picctrl:SW_Hotswap_Kailh_Choc_V1_1.00u,,,,CPG135001S30
+K214,~,"Push button switch, generic, two pins",picctrl:SW_Hotswap_Kailh_Choc_V1_1.00u,,,,CPG135001S30
+K215,~,"Push button switch, generic, two pins",picctrl:SW_Hotswap_Kailh_Choc_V1_1.00u,,,,CPG135001S30
+K216,~,"Push button switch, generic, two pins",picctrl:SW_Hotswap_Kailh_Choc_V1_1.00u,,,,CPG135001S30
+K217,~,"Push button switch, generic, two pins",picctrl:SW_Hotswap_Kailh_Choc_V1_1.00u,,,,CPG135001S30
+K218,~,"Push button switch, generic, two pins",picctrl:SW_Hotswap_Kailh_Choc_V1_1.00u,,,,CPG135001S30
+K219,~,"Push button switch, generic, two pins",picctrl:SW_Hotswap_Kailh_Choc_V1_1.00u,,,,CPG135001S30
+K220,~,"Push button switch, generic, two pins",picctrl:SW_Hotswap_Kailh_Choc_V1_1.00u,,,,CPG135001S30
+K221,~,"Push button switch, generic, two pins",picctrl:SW_Hotswap_Kailh_Choc_V1_1.00u,,,,CPG135001S30
+K301,~,"Push button switch, generic, two pins",picctrl:SW_Hotswap_Kailh_Choc_V1_1.00u,C5333465,"-2.5,-4.85",180,CPG135001S30
+R301,~,Resistor,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,,,5.1k
+R302,~,Resistor,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,,,5.1k
+R303,~,Resistor,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,,,DNP
+R305,~,Resistor,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,,,DNP
+SW301,~,"Push button switch, generic, two pins",Button_Switch_SMD:SW_Push_1P1T_XKB_TS-1187A,,,,TS-1187A-B-A-B
+SW302,~,"Push button switch, generic, two pins",Button_Switch_SMD:SW_Push_1P1T_XKB_TS-1187A,,,,TS-1187A-B-A-B
+U202,https://www.wch-ic.com/products/CH32X035.html,,Package_QFP:LQFP-48_7x7mm_P0.5mm,,,,CH559L
+U301,https://www.st.com/resource/en/datasheet/usblc6-2.pdf,"Very low capacitance ESD protection diode, 2 data-line, SOT-23-6",Package_TO_SOT_SMD:SOT-23-6,,,,USBLC6-2SC6
+U303,https://www.st.com/resource/en/datasheet/usblc6-2.pdf,"Very low capacitance ESD protection diode, 2 data-line, SOT-23-6",Package_TO_SOT_SMD:SOT-23-6,,,,USBLC6-2SC6

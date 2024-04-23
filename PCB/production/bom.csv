@@ -1,0 +1,13 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"_8, _7, _6, _5, _4, _3, _2, ",,8,,
+"C201, C301",0805,2,3.3uF,
+"C202, C302",0805,2,100nF,
+"D201, D301",D_SOD-323,2,PMEG2010EA,C193668
+"F201, F301",0805,2,500mA,C311055
+"J201, J202, J301, J302",TYPE-C-31-M-14,4,TYPE-C-31-M-14,C223907
+"K201, K202, K203, K204, K205, K206, K207, K208, K209, K210, K211, K212, K213, K214, K215, K216, K217, K218, K219, K220, K221, K301, K302, K303, K304, K305, K306, K307, K308, K309, K310, K311, K312, K313, K314, K315, K316, K317, K318, K319, K320, K321",SW_Hotswap_Kailh_Choc_V1_1.00u,42,CPG135001S30,C5333465
+"R201, R202, R301, R302",0805,4,5.1k,
+"SW201, SW202, SW301, SW302",SW_Push_1P1T_XKB_TS-1187A,4,TS-1187A-B-A-B,
+"U201, U203, U301, U303",SOT-23-6,4,USBLC6-2SC6,
+"U202, U302",LQFP-48_7x7mm_P0.5mm,2,CH559L,
+"mouse-bite-3mm-slot_8, mouse-bite-3mm-slot_7, mouse-bite-3mm-slot_6, mouse-bite-3mm-slot_5, mouse-bite-3mm-slot_4, mouse-bite-3mm-slot_3, mouse-bite-3mm-slot_2, mouse-bite-3mm-slot",mouse-bite-3mm-slot,8,VAL**,
