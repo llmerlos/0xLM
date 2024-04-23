@@ -7,8 +7,8 @@ I wanted to make a compact keyboard by using the minimum surface for the keys wi
 
 ## Characteristics:
 * CH559L [FAK](https://github.com/semickolon/fak) powered.
-* Direct pin with ESD and over-current protection [[Schematic]](https://github.com/llmerlos/0xLM/PCB/pdf/Board.pdf).
-* [3D Printed Case](https://github.com/llmerlos/0xLM/CASE).
+* Direct pin with ESD and over-current protection [[Schematic]](https://github.com/llmerlos/0xLM/blob/main/PCB/pdf/Board.pdf).
+* [3D Printed Case](https://github.com/llmerlos/0xLM/tree/main/CASE).
 * PCBA ready* (See Known Issues). 
 * Choc V1 spacing.
 
